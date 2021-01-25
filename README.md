@@ -34,7 +34,8 @@ my_cubic_spline.show_figure()
 ```
 detiled example is in example.py
 
-the figures in example are as follows:
-![alt position](https://github.com/liuchen18/cubic_spline_python/blob/main/position.png,"position")
-![alt first](https://github.com/liuchen18/cubic_spline_python/blob/main/first_derivative.png,"first derivative")
-![alt second](https://github.com/liuchen18/cubic_spline_python/blob/main/second_derivative.png,"second derivative")
+the figures in example are as follows:<br>
+[position](https://github.com/liuchen18/cubic_spline_python/blob/main/position.png)
+
+[first derivative](https://github.com/liuchen18/cubic_spline_python/blob/main/first_derivative.png)
+[second derivative](https://github.com/liuchen18/cubic_spline_python/blob/main/second_derivative.png)
