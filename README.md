@@ -21,7 +21,7 @@ you can simply import cubic_spline and costruct the cubic_spline class,like
 ```
 import cubic_spline as sp
 my_cubic_spline=sp.cubic_spline(x,y)
-``` 
+```
 and then get data from the cubic spline from my_cubic_spline by calling the functions
 ```
 my_cubic_spline.get_position(given_x)
@@ -35,4 +35,6 @@ my_cubic_spline.show_figure()
 detiled example is in example.py
 
 the figures in example are as follows:
-
+![alt position](https://github.com/liuchen18/cubic_spline_python/blob/main/position.png,"position")
+![alt first](https://github.com/liuchen18/cubic_spline_python/blob/main/first_derivative.png,"first derivative")
+![alt second](https://github.com/liuchen18/cubic_spline_python/blob/main/second_derivative.png,"second derivative")
